@@ -1,0 +1,2 @@
+# SMSIR-JoomlaPluginUser
+sms
