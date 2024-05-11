@@ -10,37 +10,37 @@
 </p>
 <div dir="rtl">
 
-# پلاگین مدیریت کاربر برای کامپوننت sms در سیستم مدیریت محتوای جوملا
+# User management plugin for sms component in Joomla content management system
 
- پلاگین مدیریت شماره های همراه کاربران برای کامپوننت ارسال پیامک
+ Plugin for managing users' mobile numbers for SMS sending component
 
 
-> [نصب](https://github.com/pejmankheyri/SMSIR-JoomlaPluginUser]#%D9%86%D8%B5%D8%A8)
+> [Installation](https://github.com/pejmankheyri/SMSIR-JoomlaPluginUser]#%D9%86%D8%B5%D8%A8)
 > 
-> [امکانات](https://github.com/pejmankheyri/SMSIR-JoomlaPluginUser]#%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA)
+> [Features](https://github.com/pejmankheyri/SMSIR-JoomlaPluginUser]#%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA)
 > 
-> [کمک به توسعه](https://github.com/pejmankheyri/SMSIR-JoomlaPluginUser]#%DA%A9%D9%85%DA%A9-%D8%A8%D9%87-%D8%AA%D9%88%D8%B3%D8%B9%D9%87)
+> [Development Assistance](https://github.com/pejmankheyri/SMSIR-JoomlaPluginUser]#%DA%A9%D9%85%DA%A9-%D8%A8%D9%87-%D8%AA%D9%88%D8%B3%D8%B9%D9%87)
 > 
-> [لایسنس](https://github.com/pejmankheyri/SMSIR-JoomlaPluginUser]#%D9%84%D8%A7%DB%8C%D8%B3%D9%86%D8%B3)
+> [License](https://github.com/pejmankheyri/SMSIR-JoomlaPluginUser]#%D9%84%D8%A7%DB%8C%D8%B3%D9%86%D8%B3)
 
-## نصب
+## Installation
 
-* فایل زیپ `SMSIR-JoomlaPluginUser` را دانلود کنید.
-* پلاگین را از طریق منوی `نصب افزونه ها` در مدیریت جوملا نصب کنید.
+* Download the `SMSIR-Joomla Plugin User` zip file.
+* Install the plugin through the `Install Plugins` menu in the Joomla administration.
 
-## امکانات
+## Features
 
-* افزودن فیلد شماره موبایل به فیلد های کاربران
-* تعیین متن ارسالی به مدیر هنگام ثبت نام کاربر جدید
-* تعیین متن ارسالی به کاربر هنگام ثبت نام کاربر جدید
+* Add mobile number field to user fields
+* Determine the text sent to the administrator when registering a new user
+* Determining the text sent to the user when registering a new user
 
-## کمک به توسعه
+## Development Assistance
 
-از Pull request ها استقبال می کنیم.
+We welcome pull requests.
 
-برای تغییرات عمده ، لطفاً ابتدا یک issue را باز کنید تا در مورد آنچه می خواهید تغییر دهیم و بحث کنیم.
+For major changes, please open an issue first so we can discuss what you want to change.
 
-## لایسنس
+## License
 
 MIT
 
